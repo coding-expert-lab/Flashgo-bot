@@ -1,0 +1,2 @@
+# Flashgo-bot
+Be happy
